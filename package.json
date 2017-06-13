@@ -9,6 +9,7 @@
   "author": "Tushar",
   "license": "ISC",
   "dependencies": {
+    "git-rev": "^0.2.1",
     "request": "^2.81.0"
   }
 }
